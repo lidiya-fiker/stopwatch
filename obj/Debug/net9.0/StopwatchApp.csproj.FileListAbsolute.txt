@@ -1,0 +1,14 @@
+C:\Users\Samri\Desktop\lidiya\StopwatchApp\bin\Debug\net9.0\StopwatchApp.exe
+C:\Users\Samri\Desktop\lidiya\StopwatchApp\bin\Debug\net9.0\StopwatchApp.deps.json
+C:\Users\Samri\Desktop\lidiya\StopwatchApp\bin\Debug\net9.0\StopwatchApp.runtimeconfig.json
+C:\Users\Samri\Desktop\lidiya\StopwatchApp\bin\Debug\net9.0\StopwatchApp.dll
+C:\Users\Samri\Desktop\lidiya\StopwatchApp\bin\Debug\net9.0\StopwatchApp.pdb
+C:\Users\Samri\Desktop\lidiya\StopwatchApp\obj\Debug\net9.0\StopwatchApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samri\Desktop\lidiya\StopwatchApp\obj\Debug\net9.0\StopwatchApp.AssemblyInfoInputs.cache
+C:\Users\Samri\Desktop\lidiya\StopwatchApp\obj\Debug\net9.0\StopwatchApp.AssemblyInfo.cs
+C:\Users\Samri\Desktop\lidiya\StopwatchApp\obj\Debug\net9.0\StopwatchApp.csproj.CoreCompileInputs.cache
+C:\Users\Samri\Desktop\lidiya\StopwatchApp\obj\Debug\net9.0\StopwatchApp.dll
+C:\Users\Samri\Desktop\lidiya\StopwatchApp\obj\Debug\net9.0\refint\StopwatchApp.dll
+C:\Users\Samri\Desktop\lidiya\StopwatchApp\obj\Debug\net9.0\StopwatchApp.pdb
+C:\Users\Samri\Desktop\lidiya\StopwatchApp\obj\Debug\net9.0\StopwatchApp.genruntimeconfig.cache
+C:\Users\Samri\Desktop\lidiya\StopwatchApp\obj\Debug\net9.0\ref\StopwatchApp.dll
